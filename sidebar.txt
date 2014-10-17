@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[teo:home|Door43 (teo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-teo|d43-teo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-teo/archive/master.zip|d43-teo.zip]]
+
+**Recent Changes**
+{{changes>ns = teo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/teo|Ethnologue data]]
+
